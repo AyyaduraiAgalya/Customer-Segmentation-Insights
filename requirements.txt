@@ -1,3 +1,6 @@
 notebook
 pandas
 numpy
+seaborn
+matplotlib
+missingno
