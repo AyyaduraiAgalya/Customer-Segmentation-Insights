@@ -2,7 +2,7 @@ from db_connect import get_connection
 
 # Defining schema configurations
 SCHEMA_CONFIG = {
-    "sales": "Schema for all sales and transaction-related data.",
+    "transactions": "Schema for all sales and transaction-related data.",
     "customers": "Schema for customer demographic and profile information.",
     "products": "Schema for product catalog and inventory data.",
 }
